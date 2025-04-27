@@ -16,7 +16,6 @@ dependencies:
   dio: ^5.8.0+1
   logger: ^2.5.0
   device_info_plus: ^11.4.0
-  package_info_plus: ^5.0.1
 
 dev_dependencies:
   flutter_test:
@@ -29,6 +28,9 @@ topics:
   - flutter
   - discord
   - debugging
+  - error-reporting
+  - tracking
+  - analytics
 
 flutter:
   # This section is optional since this is a plugin package
