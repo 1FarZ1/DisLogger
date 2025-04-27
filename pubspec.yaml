@@ -28,13 +28,11 @@ dev_dependencies:
 
 
 topics:
-  - logging
-  - flutter
   - discord
+  - logging
   - debugging
-  - error-reporting
-  - tracking
   - analytics
+  - tracking
 
 flutter:
   # This section is optional since this is a plugin package
