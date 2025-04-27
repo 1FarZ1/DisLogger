@@ -20,6 +20,7 @@ class DiscLogger {
   static final Dio _dio = Dio();
   static Map<String, String> _webhookUrls = {};
   static bool _isConfigured = false;
+
   /// Configure the logger with Discord webhook URLs for different log types.
   ///
   /// Example:
@@ -33,7 +34,7 @@ class DiscLogger {
     _webhookUrls = webhookUrls.map((key, value) {
       return MapEntry(key.toString().split('.').last, value);
     });
-      
+
     _isConfigured = true;
   }
 
