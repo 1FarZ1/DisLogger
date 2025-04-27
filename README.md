@@ -12,8 +12,9 @@ A Flutter package that simplifies logging to Discord webhooks. This package help
 - 🌈 **Formatted messages** - Clean and readable Discord message formatting
 - 📱 **Device identification** - Automatically captures device information
 - ⚡ **Lightweight** - Minimal impact on app performance
-- 🔄 **Retry mechanism** - Handles rate limits and connection issues
-- 🛠️ **Customizable fields** - Add custom data to your log messages
+- 🆓 **Completely free** - No hidden servers or fees
+- 📈 **Collaborate easily** - Share logs with your team in Discord
+- 🛠️ **Customizable fields** - Add custom data to your log messages [SOON]
 
 ## Installation
 
@@ -217,6 +218,10 @@ class CustomDiscLogger extends DiscLogger {
 
 - [ ] Add support for custom message formatting
 - [ ] Implement a more robust retry mechanism to avoid rate limits from Discord
+
+## 🌟 Give it a Star
+
+If you find discord_logger useful, please ⭐ star the repo — it helps support the project and reach more developers!
 
 ## Contributing
 
