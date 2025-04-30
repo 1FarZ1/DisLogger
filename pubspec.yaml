@@ -1,11 +1,12 @@
 name: dis_logger
 description: "A Flutter package that helps you send logs to Discord server channels with easy and simple setup."
 version: 0.0.1+2
-# homepage: https://github.com/1far4z1/dis_logger/tree/main
-repository: https://github.com/1farz1/DisLogger/
+
+
+repository: https://github.com/1farz1/DisLogger
+homepage: https://github.com/1farz1/DisLogger
 issue_tracker: https://github.com/1farz1/DisLogger/issues
 documentation: https://github.com/1farz1/DisLogger/blob/main/README.md
-
 
 license: MIT
 
